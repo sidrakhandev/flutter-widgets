@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           leading: Icon(Icons.close),
           title: Text(_title),
-          backgroundColor: Colors.purple,
+          backgroundColor: Colors.pink,
         ),
         body: SingleChildScrollView(
           child: MyStatefulWidget(),
