@@ -129,7 +129,7 @@ class _MyStatefulWidgetState extends State<MyStatefulWidget> {
                     'Money In',
                     style: TextStyle(
                       fontFamily: 'Source Sans Pro',
-                      fontSize: 20,
+                      fontSize: 22,
                     ),
                   ),
                 ),
